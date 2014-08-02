@@ -1,0 +1,172 @@
+{
+  "title": "course authoring",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "11": {
+      "title": "tools",
+      "id": 13,
+      "ideas": {
+        "1": {
+          "title": " checklist",
+          "id": 2,
+          "ideas": {
+            "1": {
+              "title": " get started",
+              "id": 7
+            },
+            "2": {
+              "title": "draft outline",
+              "id": 8
+            },
+            "3": {
+              "title": "explore tools",
+              "id": 11
+            },
+            "4": {
+              "title": "course \"about\" page",
+              "id": 12
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "import/export",
+          "id": 15
+        }
+      }
+    },
+    "21": {
+      "title": "configuration",
+      "id": 16,
+      "ideas": {
+        "1": {
+          "title": "scheduler",
+          "id": 17
+        },
+        "2": {
+          "title": "grading rubric",
+          "id": 18
+        },
+        "3": {
+          "title": "content team",
+          "id": 19
+        },
+        "4": {
+          "title": "misc",
+          "id": 21,
+          "ideas": {
+            "1": {
+              "title": "forum",
+              "id": 22,
+              "ideas": {
+                "1": {
+                  "title": "public / anonymous",
+                  "id": 33
+                },
+                "2": {
+                  "title": "blckout dates",
+                  "id": 34
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "wiki",
+              "id": 23
+            },
+            "3": {
+              "title": "certificate",
+              "id": 24
+            },
+            "4": {
+              "title": "course",
+              "id": 25,
+              "ideas": {
+                "1": {
+                  "title": "about page",
+                  "id": 26
+                },
+                "2": {
+                  "title": "course logo",
+                  "id": 27
+                },
+                "3": {
+                  "title": "advertize start date",
+                  "id": 28
+                },
+                "4": {
+                  "title": "display name",
+                  "id": 29
+                },
+                "5": {
+                  "title": "sidebar info",
+                  "id": 30
+                },
+                "6": {
+                  "title": "survey url",
+                  "id": 31,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
+                },
+                "7": {
+                  "title": "progress graph",
+                  "id": 32,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "5": {
+              "title": "annotation",
+              "id": 38
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "style": {},
+        "storyboard-scenes": [
+          {
+            "storyboards": {
+              "Storyboard 1": 1
+            }
+          }
+        ]
+      }
+    },
+    "31": {
+      "title": "external tools",
+      "id": 36,
+      "ideas": {
+        "1": {
+          "title": "matlab",
+          "id": 37
+        }
+      }
+    }
+  },
+  "attr": {
+    "storyboards": [
+      "Storyboard 1"
+    ],
+    "style": {}
+  }
+}
